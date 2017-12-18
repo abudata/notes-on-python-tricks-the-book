@@ -1,6 +1,6 @@
-# Notes on Python Tricks The Book
+# Notes on Python Tricks: The Book
 
-'Python Tricks The Book A Buffet of Awesome Python Features' by Dan Bader
+'Python Tricks: The Book. A Buffet of Awesome Python Features' by Dan Bader
 
 ## Virtual environment
 
